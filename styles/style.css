@@ -1,0 +1,158 @@
+/* anton sc font */
+@import url('https://fonts.googleapis.com/css2?family=Anton+SC&family=Parkinsans:wght@300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#h1_01{
+    text-align: center;
+    color: rgb(68, 0, 255);
+}
+
+#h1_02{
+    text-align: center;
+}
+
+#div01{
+    background-color: cadetblue;
+    /* color: rgb(2, 248, 137); */
+}
+
+.clas6{
+    background-color: azure;
+    color: blueviolet;
+}
+
+#badboy{
+    background-color: blue;
+    color: white;
+    font-family: cursive;
+}
+
+#class7_01{
+    background-color: bisque;
+}
+
+#class7_02{
+    background-color: aliceblue;
+}
+
+#class7_03{
+    background-color: aquamarine;
+}
+
+#h1_03{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-align: center;
+    color: brown;
+}
+
+#p_01{
+    text-align: justify;
+    font-size: 1.5rem;
+    /* font-stretch:wider; */
+    border: 5px dashed rgb(232, 156, 156);
+    padding: 5px;
+}
+
+#div_02{
+    background-color: beige;
+}
+
+#h1_04{
+    border: 5px solid tomato;
+    /* padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+    text-align: center;
+    background-color: darkcyan;
+    color: whitesmoke;
+    /* short hand */
+    /* padding: 10px 50px 10px 50px; */
+    /* short hand 02 */
+    padding: 20px 50px;
+}
+
+#p_02{
+    background-color: darkgrey;
+    width: 400px;
+    border: 5px solid salmon;
+    padding: 10px;
+    height: 400px;
+    overflow: scroll;
+    /* text-align: center; */
+    color:crimson;
+    text-align: justify;
+    margin: auto;
+}
+
+#div_03{
+    margin: auto;
+    width: 500px;
+    background-color: dimgrey;
+    
+}
+
+#h1_05{
+    margin: 10px;
+    font-family: fantasy;
+    text-align: center;
+    color: deeppink;
+}
+
+#h1_06{
+    margin: 10px;
+    font-family: "Anton SC", sans-serif;
+    text-align: center;
+    color: blueviolet;
+}
+
+#p_03{
+    font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+#div_05{
+    margin-top: 20px;
+    background-color: darkolivegreen;
+    text-align: center;
+    margin: auto;
+    color: blue;
+}
+
+#div_05 > h3{
+    color: aqua;
+}
+
+#div_05 > p{
+    color: rgb(251, 251, 251);
+}
+
+#p_04{
+    margin: auto;
+    letter-spacing: 5px;
+    line-height: 2;
+    color: cornsilk;
+}
+
+
+
+
+#foot{
+    margin: 10px;
+    text-align: center;
+}
